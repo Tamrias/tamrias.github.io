@@ -1,15 +1,13 @@
 // New font 
 
 @import url(https://fonts.googleapis.com/css?family=Megrim);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu+Condensed);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu);
 
 html {
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAMCAIAAADONVt5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFZJREFUeNp0jsERgDAIBCFhtBq/FmH/1SjkAsSfwmM/t3MHH+dFRGOoE4Cz0ecEGJE0cZreheUN0WWPs8teWMw9LFguamHZ27KlZdVifrzy1ftjTQEGANlnIbKDjehfAAAAAElFTkSuQmCC);
+  background-color: red;
 }
 
 body {
-  font-family: 'Megrim', cursive;  
+  font-family: 'Megrim';  
   font-size: 16px;
   color: #C3C9D9;
 }
@@ -85,7 +83,7 @@ button, input[type=text], input[type=number] {
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Megrim';
 }
 
 input[type=text], input[type=number] {
