@@ -83,7 +83,7 @@ button, input[type=text], input[type=number] {
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Megrim', cursive;
+  font-family: 'Megrim';
 }
 
 input[type=text], input[type=number] {
